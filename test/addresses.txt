@@ -1,0 +1,10 @@
+123,Main-Street,New-York,USA,America
+456,Baker-Street,London,United-Kingdom,Europe
+789,Market-Road,Mumbai,India,Asia
+101,Highway-Blvd,Sydney,Australia,Oceania
+202,Green-Avenue,Cape-Town,South-Africa,Africa
+303,Park-Lane,Buenos-Aires,Argentina,America
+404,River-Street,Shanghai,China,Asia
+505,Hill-Road,Calgary,Canada,America
+606,Coastal-Drive,Barcelona,Spain,Europe
+707,Desert-Way,Dubai,UAE,Asia

@@ -1,0 +1,10 @@
+John;Doe;123,Main-Street,New-York,USA,America;john.doe@example.com;SecurePass1;1500.50;
+Jane;Smith;456,Elm-Street,Los-Angeles,USA,America;jane.smith@example.com;Password123;2500.00;
+Alice;Brown;789,King-Street,Toronto,Canada,America;alice.brown@example.com;Alice2024;1800.75;
+Bob;Johnson;101,Queen-Street,London,United-Kingdom,Europe;bob.johnson@example.com;BobSecure8;1200.25;
+Emma;Wilson;202,Highland-Road,Sydney,Australia,Oceania;emma.wilson@example.com;Wilson1234;3000.00;
+Chris;Lee;303,Maple-Avenue,Vancouver,Canada,America;chris.lee@example.com;ChrisPass9;1400.50;
+Sophia;Davis;404,Pine-Lane,Chicago,USA,America;sophia.davis@example.com;Sophia4567;2200.25;
+Michael;Taylor;505,Cedar-Drive,Melbourne,Australia,Oceania;michael.taylor@example.com;TaylorPass1;1700.80;
+Olivia;Anderson;606,Birch-Boulevard,Auckland,New-Zealand,Oceania;olivia.anderson@example.com;Olivia2023;2600.40;
+James;Martinez;707,Walnut-Avenue,Madrid,Spain,Europe;james.martinez@example.com;James1234;1900.30;

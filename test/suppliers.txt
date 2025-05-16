@@ -1,0 +1,4 @@
+Roland;101,Umeda-Tower,Osaka,Japan,Asia;roland@roland.com;RolandKeys!;
+Shure;303,Evanston-Drive,Evanston,USA,America;shure@shure.com;Shure1234Mic;
+DW;404,Oxnard-Street,Oxnard,USA,America;dw@dwdrums.com;DWdrums2024;
+Korg;505,Inagi-Road,Tokyo,Japan,Asia;korg@korg.com;KorgSynth99;
